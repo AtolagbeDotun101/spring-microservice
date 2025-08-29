@@ -1,7 +1,7 @@
-package com.programmingtechie.orderservice.controller;
+package com.programming.techie.orderservice.controller;
 
-import com.programmingtechie.orderservice.dto.OrderRequest;
-import com.programmingtechie.orderservice.service.OrderService;
+import com.programming.techie.orderservice.dto.OrderRequest;
+import com.programming.techie.orderservice.service.OrderService;
 
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import io.github.resilience4j.retry.annotation.Retry;

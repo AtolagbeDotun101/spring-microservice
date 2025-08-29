@@ -1,4 +1,4 @@
-package com.programmingtechie.orderservice;
+package com.programming.techie.orderservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
